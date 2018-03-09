@@ -1,5 +1,3 @@
-"# Walmart-RAW-EDI-PO-extractor" 
-
 Requirements:
 1. Pythong 2.7
 2. xlwt
